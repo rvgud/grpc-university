@@ -1,0 +1,2 @@
+spring.sleuth.propagation-keys: X-Log-Level
+spring.sleuth.log.slf4j.whitelisted-mdc-keys: X-Log-Level
